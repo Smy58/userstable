@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Cersei ",
+      "lastName": "Lannister",
+      "email": "cerseilannister@gmail.com",
+      "skills": [
+        {
+          "id": 1718361357113,
+          "name": "Rat"
+        },
+        {
+          "id": 1718361372839,
+          "name": "ultraRat"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "firstName": "Jaime ",
+      "lastName": "Lannister",
+      "email": "jaimelannister@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "4",
+      "firstName": "Anya ",
+      "lastName": "Stark",
+      "email": "anyastark@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "5",
+      "firstName": "Daenerys ",
+      "lastName": "Targaryen",
+      "email": "daenerystargaryen@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "6",
+      "firstName": "Ever ",
+      "lastName": "Melisandre",
+      "email": "evermelisandre@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "7",
+      "firstName": "Ferrara Clifford",
+      "lastName": "Snow",
+      "email": "ferraraclifford@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "8",
+      "firstName": "Rossini Frances",
+      "lastName": "Snow",
+      "email": "rossinifrances@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "9",
+      "firstName": "Harvey Roxie",
+      "lastName": "Snow",
+      "email": "harveyroxie@gmail.com",
+      "skills": []
+    },
+    {
+      "id": "9d7c",
+      "firstName": "Ilshat",
+      "lastName": "Osmanov",
+      "email": "28092001i@gmail.com",
+      "skills": [
+        {
+          "id": 1718361297555,
+          "name": "Super"
+        }
+      ]
+    }
+  ]
+}
